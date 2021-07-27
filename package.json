@@ -1,6 +1,6 @@
 {
   "homepage": "https://akerele180.github.io/review-card/",
-  "name": "review",
+  "name": "review-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
